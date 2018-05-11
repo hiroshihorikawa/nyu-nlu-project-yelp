@@ -5,7 +5,7 @@ fish
 duck
 egg
 carrot
-brocolli
+broccoli
 cabbage
 salad
 almond
@@ -71,5 +71,3 @@ octopus
 mousse
 celery
 yogurt
-red
-signature
